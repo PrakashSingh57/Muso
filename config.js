@@ -12,7 +12,7 @@ module.exports = {
   "24/7": true, //If you want the bot to be stay in the vc 24/7
   CookieSecret: "Pikachu is EPIC", //A Secret like a password
   IconURL:
-    "https://drive.google.com/file/d/1je5J2DTg2jkH_jll3zCdiYFGFosGwm25/view?usp=sharing", //URL of all embed author icons | Dont edit unless you dont need that Music CD Spining
+    "https://raw.githubusercontent.com/SudhanPlayz/Discord-MusicBot/master/assets/logo.gif", //URL of all embed author icons | Dont edit unless you dont need that Music CD Spining
   Permissions: 2205280576, //Bot Inviting Permissions
   Website: process.env.Website || "https://muso-zxz.prakashsingh7.repl.co", //Website where it was hosted at includes http or https || Use "0.0.0.0" if you using Heroku
 
